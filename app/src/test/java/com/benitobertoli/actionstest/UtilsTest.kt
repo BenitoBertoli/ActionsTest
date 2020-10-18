@@ -7,6 +7,6 @@ class UtilsTest {
 
     @Test
     fun `sum should return the correct sum`() {
-        Assert.assertEquals(2, Utils.sum(1, 2))
+        Assert.assertEquals(4, Utils.sum(1, 2))
     }
 }
